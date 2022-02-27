@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The holy sisters conspiracy against their husbands, and the city of London, designed at their last farewell of their meeting-houses in Coleman-street; together with their Psalm of mercy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86492</idno>
+            <idno type="STC">Wing H2528</idno>
+            <idno type="STC">Thomason E1055_20</idno>
+            <idno type="STC">ESTC R208030</idno>
+            <idno type="EEBO-CITATION">99867036</idno>
+            <idno type="PROQUEST">99867036</idno>
+            <idno type="VID">119326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119326)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The holy sisters conspiracy against their husbands, and the city of London, designed at their last farewell of their meeting-houses in Coleman-street; together with their Psalm of mercy.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M.,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>A satire, in verse, against the Fifth Monarchy-Men.</note>
+                  <note>Annotation on Thomason copy: "January 26 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discussion">
+            <pb n="1" facs="tcp:119326:1" rendition="simple:additions"/>
+            <head>The holy Siſters Conſpiracy a<g ref="char:EOLhyphen"/>gainſt their Husbands, and the City of <hi>London,</hi> deſigned at their laſt <hi>Farewell</hi> of their Meet<g ref="char:EOLhyphen"/>ing-houſes in <hi>Coleman-ſtreet;</hi>
+            </head>
+            <head type="sub">
+               <hi>Together with their Pſalm of</hi> Mercy.</head>
+            <stage>Sarah <hi>an old Sciſmatick hold's forth.</hi>
+            </stage>
+            <sp>
+               <p>DEarly beloved ſiſter<hi>!</hi> shere met together in feare, I beſeech you let us hold forth our gifts (for the mutuall Information and Edification of one another) in a ſpiritual and holy diſcourſe, as not knowing o<g ref="char:EOLhyphen"/>therwiſe, but that this may be the laſt time, that ever we ſhall meet together in this place in peace.</p>
+            </sp>
+            <sp>
+               <speaker>Joanna.</speaker>
+               <p>Why! Siſter, what cauſe have you to ſuſpect that we ſhall not meet together here at another time, as we have been wonted to doe for many years?</p>
+            </sp>
+            <sp>
+               <speaker>Deborah.</speaker>
+               <p>The wicked and Reprobate about the City ſay, that the Man in Power at <hi>White-hall,</hi> whom they call their King, has put forth a Proclamation the other day, to put down and put by all our Meeting<g ref="char:EOLhyphen"/>houſes and Meetings for the future; becauſe ſome of our Brethren being lately moved by the ſpirit, obeyed the holy Call, and contended for our Chriſtian Liber<g ref="char:EOLhyphen"/>ty in the ſtreets, as loyal ſubjects of our King <hi>Jeſus;</hi> In whoſe name they cut off ſome wicked members, that oppoſed them in the names of God and Kings <hi>Charls,</hi> as they wickedly ſaid.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:119326:2"/>
+               <speaker>Ruth.</speaker>
+               <p>Truly ſiſters! As I was ſelling of Lace in <hi>Cheap-ſide</hi> the other day, there came a great Company together on Horſeback, and read a Paper to that effect; whereupon I told my ſiſter <hi>Abigaile</hi> of the ſad news; who went with me to our ſiſter <hi>Prudence</hi> at the Bull-head; where we ſweetned our ſorrow with a pint of burnt Claret, and remembred the Saints in priſon (our Father <hi>Know—,</hi> and the reſt of our Brethren and Siſters,) whom that man of Sin (that they call their Lord Mayor <hi>Brown)</hi> hath wickedly committed.</p>
+            </sp>
+            <sp>
+               <speaker>Abigaile.</speaker>
+               <p>Yea! It is very true; but you forgot one thing, ſiſter <hi>Ruth;</hi> that is, the great fervency and love, that our ſiſter <hi>Prudence</hi> ſhewed to us, who brought us in an half-peny Roll to ſop in the wine upon her own charge; which you promiſed to communicate at our next meeting, that the thanks of the Congregation might be returned to her for her Chriſtian and ſiſterly bounty.</p>
+            </sp>
+            <sp>
+               <speaker>Prudence.</speaker>
+               <p>It was not ſo much worth indeed, good Siſters<hi>!</hi> that I deſerve any thanks for it. But verily, I have been much caſt down in my ſpirit, ever ſince I heard, that our harmleſſe and innocent meetings ſhould be ſtop't and prevented, and that we ſhould be debarred of the ſweet fellowſhip and communion of our dearly beloved brethren; of whoſe ſufferings we ought to be fellow-feelers now in the time of their captivity, as they have added much to our conſolation in the time of their Liberty.</p>
+            </sp>
+            <sp>
+               <speaker>Bathſheba.</speaker>
+               <p>In truth, Siſters, I have much felt the ſweetneſſe of our Brethrens love, and been comfor<g ref="char:EOLhyphen"/>ted by their gifts and abilities many a time. Oh!
+<pb n="3" facs="tcp:119326:2"/>
+what a holy man is our Brother <hi>Iv—!</hi> the Cheeſe monger; who was alwayes ſo meekly and lowly minded, that for the ſupply of the inward wants of any of us, would not diſdaine to fall on his face, and zealouſly embrace us in the arms of his ſer<g ref="char:EOLhyphen"/>vent affection; which hath been the cauſe by con<g ref="char:EOLhyphen"/>ſtant uſage, that his Noſe ſtand's awry, after the ſimilitude of our old Father <hi>Cans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Agatha.</speaker>
+               <p>And I can ſay by good experience, that if we be obſtructed hence forward in our zealous way, I ſhall looſe the precious and balmy ſalutations of our brother <hi>H—</hi>the Printer; whoſe breathings and pantings have been alwayes very cordial and comfortable to me, and made ſuch deep Im<g ref="char:EOLhyphen"/>preſſions upon my ſanctified heart, that they have made me very fruitfull, and zealous of his good works; but if I now be deprived of his holy Seed, I fear, I ſhall decline in the ſpiritual way of our fru<g ref="char:EOLhyphen"/>ctification, and bring forth onely fruits meet for pen<g ref="char:EOLhyphen"/>nance and grief.</p>
+            </sp>
+            <sp>
+               <speaker>Heſter.</speaker>
+               <p>Verily for my part I ſay unto you, that the man (according to the fleſh,) whom I fondly and idlely took to be my Husband in the dayes of my youthfull vanities, hath proved a meere Jew unto me, and will not give me that due benevolence, which we are taught in our holy Scriptures, is owing from the Male to the Female; And therefore ſince he is one of the Reprobates, and alſo one that loves the ſuperſtitious ſhirt, better than my hallowed and purified Smock, I am reſolved (in deſpight of all oppoſition) to follow the godly Exhor<g ref="char:EOLhyphen"/>tations
+<pb n="4" facs="tcp:119326:3"/>
+&amp; Motives of that holy man of God Mr. <hi>Feake;</hi> and if I cannot have my liberty of Conſcience with a Brother in our publick Meeting-place, I will ſeek after his Fellowſhip and Memberſhip in a Corner, like the perſecuted Saints of old; who lived in Dens and Caverns of the earth, rather then they would not enjoy their liberty of Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Patience.</speaker>
+               <p>What! ſhall not our Brethren in the fear of the Lord hold forth unto us, and make us partakers of thoſe good gifts, that they have received, and can fully and freely adminiſter unto us for the relief of our needs and neceſſities? Shall all our Potato pies, our Calves-foot pies, our Jellies, and cordiall Brothes (beſides thoſe little Drachms and Scruples of Spirits) be all ſuſpended and laid aſide; which inflamed our zeales, and provoked us to conjunction and union one with another in an holy fear? No, no, I'le turn my <hi>Patience</hi> into fury, and rather than be kept from the ſweet and delightfull enjoyments of thoſe felicities, I will break the Commandments of ten thouſand Pro<g ref="char:EOLhyphen"/>clamations, let them exclaim as loud as they will<hi>!</hi> What! are not the Creatures common for us Saints, and ſhall we (like drowſie and cowardly fools) be ſcar'd and terrified out of our Comforts, by a little pa<g ref="char:EOLhyphen"/>per-ſtuff? No, no, my Husbands Silks and Sattins ſhall flye for it, but I'le keep up our Prerogatives; which have been ſo piouſly contended for by all our Bre<g ref="char:EOLhyphen"/>thren beyond the Seas for many years, and for which the Saints of late loſt their lives, and more will follow er're it be long, if the Reprobates ſhould prevaile a<g ref="char:EOLhyphen"/>gainſt us; which I hope they never ſhall be able, till we have utterly deſtroyed them upon the face of the earth.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:119326:3"/>
+               <speaker>Charity.</speaker>
+               <p>In good ſooth, ſiſter <hi>Patience,</hi> I concur with you in opinion; And I further add ſomewhat of mine own, That I hold it both unnatural and unreaſonable, that if we were no more then rational creatures, (as we are not) we ſhould have leſſe freedome and liberty in congregating together with holy men, than is per<g ref="char:EOLhyphen"/>mitted in the order of Nature to meer bruit Beaſts and Fowl (which have no underſtanding) to gather themſelves into ſociable herds and flocks, and do thoſe things in common one with another, as their appetites incite them; Much more therefore ſince that we are Saints, and pure and holy Siſters of the Brethren, (who are perfect and righteous men) ſhould we have in charity our free and abſolute permiſſion and tolerati<g ref="char:EOLhyphen"/>on to do what we will; for as much as the Brethren go the right way to work with us, and doe not tempt us to folly and filthineſſe, as the carnal and ſinfull men of the world uſe to doe with the reſt of our unſancti<g ref="char:EOLhyphen"/>fied Sex; but what they doe to us, they do it with ſo<g ref="char:EOLhyphen"/>briety and diſcretion, and in pure love and affection, that they may raiſe up an holy Generation of young Saints; who may onely know their Fathers after the ſpirit and not after the fleſh; (as the children of the world do,) though there were twenty of the Brethren contributing to the begetting of one little Saint; For <hi>Charity</hi> is the bond of all perfection, and love is the fulfilling of the law; And therefore if a Brother and Siſter be ſpiritually moved, and inclined in an holy love and charitable reſpect to propagate and encreaſe the number of the faithfull, no time or place or per<g ref="char:EOLhyphen"/>ſons ought to reſtrain or bar them from doing ſo good a work. Wherefore my opinion is, that the Procla<g ref="char:EOLhyphen"/>mation is not binding of us in Charity, Religion and
+<pb n="6" facs="tcp:119326:4"/>
+Conſcience; nor is there any carnal power above the priviledges of us Saints: And therefore I will never ſubmit to it, as long as I breath.</p>
+            </sp>
+            <sp>
+               <speaker>Faith.</speaker>
+               <p>Good ſiſter, I believe you to be in the right; and as our ſiſter <hi>Rebecca</hi> hath often expounded to us the word, I am confirmed, that we are above all prin<g ref="char:EOLhyphen"/>cipalities and Powers in the world (except the powers of darkneſſe,) and ſhall bring them all into ſubjection under our feet. And therefore we will meet with our beloved Brethren, though it be at the Gallows, rather then we will looſe their brotherly communion; and if any of thoſe wicked men, (which call themſelves our Husbands,) will not give us way to do as we liſt, but ſhall ſeek to controll and require us to go along with them to their Steeple-houſes, and conform our ſelves to their Baal's Prieſts, we will forſake and leave their wicked company, and betake us to our Bre<g ref="char:EOLhyphen"/>threns Copulation and Conjunction with us, where and when and how, the ſpirit ſhall move us to it.</p>
+            </sp>
+            <sp>
+               <speaker>Temperance.</speaker>
+               <p>This is very fine indeed<hi>!</hi> What muſt we meet no more together forſooth? But we will by my conſent, in deſpight of all the Train Bands of the City! A Proclamation! Out upon it! Tis but one of the Buls of the Whore of <hi>Babylon,</hi> and ſhall we be frighted and diſheartned by a little Paper-Bull, that fear not, nor ſtand in aw of the great Bulls of <hi>Baſhan,</hi> our husbands! Come, come, Siſters, let us make a col<g ref="char:EOLhyphen"/>lection, and provide a ſtock for our religious brethren, who now ſuffer perſecution for their Conſcience ſake, that their bonds may be made eaſie to them, and the rigour of their Keepers taken off; that ſince we can<g ref="char:EOLhyphen"/>not enjoy them with us here in freedome, they may freely enjoy us with them in their reſtraints and con<g ref="char:EOLhyphen"/>finements.
+<pb n="7" facs="tcp:119326:4"/>
+For which purpoſe, the Fore-man of our ſhop hath already progged for me (unknown to his wicked Maſter) this bag of money; And rather than our Brethren ſhall want, my ſervants ſhall courſe it, and courſe it over and over with me, ſo as they will but proll from their Maſter ſecretly, that which his <hi>Nabal</hi> like and churliſh worldly mindedneſſe will not freely let me have for the relief of our poore bre<g ref="char:EOLhyphen"/>thren.</p>
+            </sp>
+            <sp>
+               <speaker>Rebecca.</speaker>
+               <p>Ah good ſiſter <hi>Temperance,</hi> you are piouſly diſpoſed! Hold cloſe to that good reſolution, and ne<g ref="char:EOLhyphen"/>ver fall back from it with any perſwaſion of that evill minded man, your carnal and ungodly Husband. All that he hath is yours, and for our common good; And therefore it is no iniquity for you to do what you wil, ſo as thereby you promote the welfare of our bre<g ref="char:EOLhyphen"/>thren, though it tend to the breaking and bringing down the rebellious and ſtubborn heart of your un<g ref="char:EOLhyphen"/>ſanctified Husband; for whom you muſt not reſerve in the leaſt corner of your ſoul any affection or love; ſince he is a reprobate to our Faith, and an enemy to the Saints; and its no matter at all what becomes of him.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtance.</speaker>
+               <p>Though, ſiſters, you can ruzzle up and down in your ſilks and rich attire, and I am but a poor footer of ſtockings, yet my bolt may be as ſoon ſhot, as yours, and to as good a purpoſe<hi>!</hi> I ſay this; That it is beſt for us all to be as wary as we can. For my own part, I am now grown old, and cannot do, as I was wont, the marke being quite out of my mouth, as they prophanely ſay<hi>:</hi> But if my blood was as quick and
+<pb n="8" facs="tcp:119326:5"/>
+active (as ſome of yours is, and it hath been in my younger dayes) I would adventure to do more than now I can, or can be expected from me. I tell you, ſiſters, that I conceive it will be beſt for us to follow the adviſe and exhortation of our brother <hi>Venner,</hi> &amp; to cut the throats of ſuch of our Husbands, as are King<g ref="char:EOLhyphen"/>lings for the Man in Power, and Enemies to the Bre<g ref="char:EOLhyphen"/>thren. As for my part, I have an old rigid Presbyte<g ref="char:EOLhyphen"/>rian to my Husband, who night and day calls me Sciſ<g ref="char:EOLhyphen"/>matick and Fanatick, and Whore, and Jade, and Bawd to the ſanctified Whores (meaning all you my deare ſiſters,) but for my ſelf, I value not his words, if there was any great matter of truth in them; onely I will be avenged upon him for your ſakes, whoſe holy names and perſons, he doth ſo wickedly ſlander; And therefore it ſhall not belong ere I doe him a courteſie, and ſend him to his long home: And if you will ever be free, you muſt all do the like, that are under the Curſe of ſuch ungracious Reprobates.</p>
+            </sp>
+            <sp>
+               <speaker>Innocence.</speaker>
+               <p>I am fully convinced, that my Siſter <hi>Con<g ref="char:EOLhyphen"/>ſtance</hi> hath moved to the purpoſe, and it will be beſt for us all to take her Counſel, and put it in preſent and ſpeedy execution, that we may ſet up our Monarchy with all expedition.</p>
+            </sp>
+            <stage>All of them in a ribble-rabble,</stage>
+            <p>Agreed, agreed<hi>!</hi> Wee'l fire the City too, rather then we will not have our wils. And therefore let us take our Farewell of this our Meeting-place at this time; onely let us ſing a <hi>Pſalm</hi> of <hi>mercy</hi> to the praiſe of our King, compoſed by our Father <hi>Feake</hi> for our E<g ref="char:EOLhyphen"/>dification and Inſtruction, before we depart.</p>
+            <div type="song">
+               <pb n="9" facs="tcp:119326:5"/>
+               <head>A Pſalm of <hi>Mercy.</hi>
+               </head>
+               <stage>Uſula, <hi>(who cry's <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nds of Gold and Silver) read's, and all the Siſters ſing.</hi>
+               </stage>
+               <p>To the Tune of, <hi>Now thanks to the Powers below!</hi>
+               </p>
+               <stage>Sing it in the Noſe.</stage>
+               <lg>
+                  <l>WHat a Reprobate Crew is here,</l>
+                  <l>Who will not have <hi>Jeſus</hi> Reign?</l>
+                  <l>But ſend all our Saints</l>
+                  <l>To Bonds and Reſtraints,</l>
+                  <l>And kill'um again and again?</l>
+                  <l>Let's riſe in an holy fear,</l>
+                  <l>And fight for our heavenly King;</l>
+                  <l>We will ha'no power</l>
+                  <l>But <hi>Vane</hi> in the Tower</l>
+                  <l>To Rule us in any thing!</l>
+                  <l>Come Siſters, and ſing</l>
+                  <l>An Hymne to our King,</l>
+                  <l>Who ſitteth on high Degree;</l>
+                  <l>The Men at <hi>White-Hall,</hi>
+                  </l>
+                  <l>And the wicked ſhall fall,</l>
+                  <l>And hey, then up go We.</l>
+                  <l>A Match, quoth my ſiſter <hi>Joyce;</hi>
+                  </l>
+                  <l>Contented, quoth <hi>Rachel</hi> too;</l>
+                  <l>Quoth, <hi>Abigaile,</hi> yea, and <hi>Faith,</hi> verily,</l>
+                  <l>And <hi>Charity,</hi> let 't be ſo.</l>
+                  <l>
+                     <pb n="10" facs="tcp:119326:6"/>
+Our Monarchie is the Fift,</l>
+                  <l>Shall laſt for a Thouſand years;</l>
+                  <l>O'th' wicked on earth</l>
+                  <l>There ſhall be a dearth,</l>
+                  <l>When <hi>Jeſus</hi> himſelf appear's!</l>
+                  <l>And we are the Babes of Grace,</l>
+                  <l>The fruits of an holy Seed;</l>
+                  <l>For old Father <hi>Cann</hi>
+                  </l>
+                  <l>(That Reverend man,)</l>
+                  <l>Begat us in Word and Deed.</l>
+                  <l>The earth is our own,</l>
+                  <l>For Title there's none,</l>
+                  <l>But in the right Heires of Sion;</l>
+                  <l>Then let us be free,</l>
+                  <l>For verily wee</l>
+                  <l>No King ha' but <hi>Judah</hi>'s Lion.</l>
+                  <l>'Tis verity, quoth old <hi>Joane,</hi>
+                  </l>
+                  <l>And Sooth, quoth my ſiſter <hi>Pru,</hi>
+                  </l>
+                  <l>'Tis manifeſt truth, quoth mortified <hi>Ruth,</hi>
+                  </l>
+                  <l>And the Goſpel is ſo, ſay's <hi>Su.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Biſhops and Bels ſhall down,</l>
+                  <l>For we have an holy Call;</l>
+                  <l>The Saints are beyond</l>
+                  <l>All Order and Bond</l>
+                  <l>Of duty to Prieſts of <hi>Baal.</hi>
+                  </l>
+                  <l>Their Pipes and Organs too,</l>
+                  <l>Their ſuperſtitious Shirt,</l>
+                  <l>Their Canons and Bulls,</l>
+                  <l>(To cozen poore Gulls,)</l>
+                  <l>Wee'le trample 'um in the Dirt.</l>
+                  <l>
+                     <pb n="11" facs="tcp:119326:6"/>
+No Ordinance ſhall</l>
+                  <l>Command us at all,</l>
+                  <l>For we are above their thrall.</l>
+                  <l>We care not a Straw</l>
+                  <l>For Reaſon or Law;</l>
+                  <l>For Conſcience is all in all.</l>
+                  <l>Ay marry, quoth <hi>Agatha,</hi>
+                  </l>
+                  <l>And <hi>Temperance,</hi> eke alſo,</l>
+                  <l>Quoth <hi>Hanna,</hi> it's juſt, and <hi>Mary</hi> it muſt</l>
+                  <l>And ſhall be, quoth <hi>Grace,</hi> I trow.</l>
+               </lg>
+               <lg>
+                  <l>The Steeple-houſe Lands are ours,</l>
+                  <l>Kings, Queens, Delinquents too,</l>
+                  <l>And <hi>James</hi>'es and all</l>
+                  <l>The Court at <hi>White-hall,</hi>
+                  </l>
+                  <l>And <hi>Somerſet-houſe</hi> alſo.</l>
+                  <l>For <hi>The'balds</hi> it is our right,</l>
+                  <l>And <hi>Marrow-bone-Park</hi> to boot,</l>
+                  <l>And <hi>Eltham</hi>'s our own,</l>
+                  <l>At <hi>Endfield</hi> there's none,</l>
+                  <l>But our ſelves that ſhal grub a root.</l>
+                  <l>And <hi>Greenwich</hi> ſhall be</l>
+                  <l>For Tenements, free</l>
+                  <l>For Saints to poſſeſſe <hi>Pell-well.</hi>
+                  </l>
+                  <l>And where all the Sport</l>
+                  <l>Is at <hi>Hampton</hi> Court,</l>
+                  <l>Shall be for our ſelves to dwell.</l>
+                  <l>'Tis bleſſed, quoth <hi>Bathſheba,</hi>
+                  </l>
+                  <l>And <hi>Clemence,</hi> w' ar'all agreed;</l>
+                  <l>'Tis right, quoth <hi>Gartrude,</hi> and fit ſay's ſweet <hi>Jude.</hi>
+                  </l>
+                  <l>And <hi>Thomaſine,</hi> yea, indeed.</l>
+                  <l>
+                     <pb n="12" facs="tcp:119326:7"/>
+For Husbands we will have none,</l>
+                  <l>But Brothers in puritie;</l>
+                  <l>We will not be Wives</l>
+                  <l>And tye up our Lives</l>
+                  <l>To Villanous ſlaverie;</l>
+                  <l>But couple in love and feare;</l>
+                  <l>When mov'd by the ſpirit to 't;</l>
+                  <l>For there is no ſin</l>
+                  <l>To let a Saint in,</l>
+                  <l>When he has the grace to do 't,</l>
+                  <l>And thus are we taught,</l>
+                  <l>No folly is wrought,</l>
+                  <l>When Brothers will exerciſe.</l>
+                  <l>Both <hi>Kiffin</hi> and <hi>Hills</hi>
+                  </l>
+                  <l>(No Printer of <hi>Bills)</hi>
+                  </l>
+                  <l>Have prov'd it in ample wiſe.</l>
+                  <l>'Tis true quoth <hi>Elizabeth,</hi>
+                  </l>
+                  <l>And 'tis very good, quoth <hi>Pris,</hi>
+                  </l>
+                  <l>And <hi>Aquila</hi> too will have it be ſo,</l>
+                  <l>And ſo will my ſiſter <hi>Sis.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What though the King Proclaim's</l>
+                  <l>Our Meetings no more ſhall be;</l>
+                  <l>In private we may</l>
+                  <l>Hold forth the right way,</l>
+                  <l>And be, as we ſhould be, free;</l>
+                  <l>Our Husbands wee'le make believe;</l>
+                  <l>We go but to take the aire,</l>
+                  <l>Or viſite a Nurſe,</l>
+                  <l>And lighten their Purſe</l>
+                  <l>With a little diſſembling Prayer.</l>
+                  <l>
+                     <pb n="13" facs="tcp:119326:7"/>
+Or if they be croſſe,</l>
+                  <l>(Let 'um ſtand to the loſſe)</l>
+                  <l>Wee'le tempt our Apprentices,</l>
+                  <l>(By writing a Daſh,</l>
+                  <l>To cozen the Caſh,)</l>
+                  <l>And make 'um meer novices.</l>
+                  <l>Oh very well ſaid, quoth <hi>Con,</hi>
+                  </l>
+                  <l>And ſo will I do, ſay's <hi>Franck.</hi>
+                  </l>
+                  <l>And <hi>Mercy</hi> cry's I, and <hi>Mat,</hi> really,</l>
+                  <l>And I'm o' that mind, quoth <hi>Thank.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Wee'le cut off the wicked Rout,</l>
+                  <l>And bath us all in their Bloods;</l>
+                  <l>Their Houſes and Land</l>
+                  <l>Wee'le have at Command.</l>
+                  <l>And common upon their Goods;</l>
+                  <l>No mortal King nor Prieſt,</l>
+                  <l>No Lord, nor Duke wee'le have,</l>
+                  <l>Wee'le grinde 'um to Griſt,</l>
+                  <l>And live as we liſt,</l>
+                  <l>And we will doe wonders brave;</l>
+                  <l>Come <hi>Dorcos</hi> and <hi>Cloe,</hi>
+                  </l>
+                  <l>With <hi>Lois</hi> and <hi>Zoe,</hi>
+                  </l>
+                  <l>Young <hi>Letice</hi> and <hi>Beterice</hi> and <hi>Jane,</hi>
+                  </l>
+                  <l>
+                     <hi>Phill, Dorothy, Mawd,</hi>
+                  </l>
+                  <l>Come troup it abroad,</l>
+                  <l>For now is our time to reign.</l>
+                  <l>Sa, ſa, quoth my ſiſter <hi>Bab,</hi>
+                  </l>
+                  <l>And Kill 'um, quoth <hi>Margerie;</hi>
+                  </l>
+                  <l>Spare none, cry's old Tib, no quarter ſay's <hi>Sib</hi>
+                  </l>
+                  <l>And hey<hi>!</hi> for our Monarchie.</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:119326:8"/>
+                  <l>Let's all take the Sacrament,</l>
+                  <l>That we to each other be true,</l>
+                  <l>And kill without pitie</l>
+                  <l>In Country and Citie,</l>
+                  <l>The wicked ungodly Crew.</l>
+                  <l>Wee'le favour no Sex, nor Age,</l>
+                  <l>No quality, nor degree;</l>
+                  <l>But all ſhall to Pot,</l>
+                  <l>Both <hi>Engliſh</hi> and <hi>Scot,</hi>
+                  </l>
+                  <l>That hinder our Libertie.</l>
+                  <l>The Mayor of the Town,</l>
+                  <l>(That terrible <hi>Brown,)</hi>
+                  </l>
+                  <l>And <hi>Cox</hi> and the Captains all,</l>
+                  <l>Wee'le torture and ſlay</l>
+                  <l>In a mercileſſe way,</l>
+                  <l>And mince 'um, like herbs, as ſmall.</l>
+                  <l>Ay, That is the way quoth <hi>Emm,</hi>
+                  </l>
+                  <l>Quoth <hi>Phoebe,</hi> we conquer ſhall;</l>
+                  <l>Say's <hi>Lucy,</hi> 'tis well; quoth <hi>Jylian</hi> and <hi>Nell,</hi>
+                  </l>
+                  <l>Twill make us amends for all.</l>
+               </lg>
+               <lg>
+                  <head>A Loyall Wiſh.</head>
+                  <l>What <hi>Faith, Hope,</hi> and <hi>Charitie,</hi>
+                  </l>
+                  <l>Fanaticks in <hi>Truth</hi> profeſſe,</l>
+                  <l>By <hi>Germanie's</hi> Woe,</l>
+                  <l>And our <hi>Rebells</hi> 
+                     <note n="*" place="margin">or, Siſters, utrum, horum, harum</note> here too,</l>
+                  <l>Well may we do more, than gueſſe;</l>
+                  <l>Th' ar' juſt like the <hi>Gadarens</hi> Swine,</l>
+                  <l>Which the Devils did drive and bewitch<hi>!</hi>
+                  </l>
+                  <l>An herd, ſet on evill,</l>
+                  <l>Will run to the Devill,</l>
+                  <l>And's Dam, when their <note n="*" place="margin">Brains</note> 
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>les</hi> do itch:</l>
+                  <l>
+                     <pb n="15" facs="tcp:119326:8"/>
+Then let 'um run on!</l>
+                  <l>Say's <hi>Ned, Tom,</hi> and <hi>John:</hi>
+                  </l>
+                  <l>Ay<hi>!</hi> let 'um be hang'd quoth <hi>Mun!</hi>
+                  </l>
+                  <l>Th'ar' mine! quoth old <hi>Nick,</hi>
+                  </l>
+                  <l>And take 'um ſay's <hi>Dick,</hi>
+                  </l>
+                  <l>And well-come! quoth worſhipfull <hi>Dun.</hi>
+                  </l>
+                  <l>And God bleſſe King <hi>Charls,</hi> quoth <hi>George,</hi>
+                  </l>
+                  <l>And ſave him, ſay's <hi>Simon</hi> and <hi>Sill,</hi>
+                  </l>
+                  <l>I, I, quoth old <hi>Cole,</hi> and each loyall Soul,</l>
+                  <l>And Amen, and Amen, cry's <hi>Will.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>The honeſt mens Reſolution.</head>
+                  <l>But what, ſhall we doe with our Wives,</l>
+                  <l>That fisk up and down the Town?</l>
+                  <l>And one is for <hi>Bowles,</hi>
+                  </l>
+                  <l>And t'other for <hi>Knowles,</hi>
+                  </l>
+                  <l>But all againſt <hi>Cox</hi> and <hi>Brown?</hi>
+                  </l>
+                  <l>They cheat us all with their looks,</l>
+                  <l>And ſnivell and ſnot by wrote!</l>
+                  <l>And nothing but ſqueak,</l>
+                  <l>For <hi>Venner</hi> and <hi>Feake,</hi>
+                  </l>
+                  <l>And for a Lac'd Morning-Coate.</l>
+                  <l>For ſuch a Bell-dam</l>
+                  <l>Say's <hi>Sylas</hi> and <hi>Sam,</hi>
+                  </l>
+                  <l>Let's have an <hi>Italian</hi> Lock!</l>
+                  <l>No, no! It's farre better,</l>
+                  <l>Quoth <hi>Robin</hi> and <hi>Peter,</hi>
+                  </l>
+                  <l>To take 'um all down i'th' Dock!</l>
+                  <l>But that will not doe, ſay's <hi>Nump,</hi>
+                  </l>
+                  <l>Then nothing, ſay's <hi>Roger</hi> and <hi>Raph!</hi>
+                  </l>
+                  <l>Let's lay 'um, ſay's <hi>Nat,</hi> and ſplay 'um, ſay<hi>'s Wat,</hi>
+                  </l>
+                  <l>And then we ſhall make 'um ſafe.</l>
+                  <l>
+                     <pb n="16" facs="tcp:119326:9"/>
+But, <hi>Faith,</hi> y' ar'all out oth' way<hi>!</hi>
+                  </l>
+                  <l>The Siſters have ſuch a Trick!</l>
+                  <l>No Inſtrument will.</l>
+                  <l>Seclude 'um from ill,</l>
+                  <l>But ſtill againſt P—'s, they'le Kick.</l>
+                  <l>What ſhall we doe then? quoth <hi>Hal,</hi>
+                  </l>
+                  <l>Let's cope up their Lecherie!</l>
+                  <l>Say's <hi>Rowland,</hi> we may,</l>
+                  <l>Be Maſters, that way.</l>
+                  <l>But 'twill not laſt long, quoth, <note n="*" place="margin">Theophilus</note> 
+                     <hi>The.</hi>
+                  </l>
+                  <l>What ſhall we do then,</l>
+                  <l>Quoth <hi>Cutbert</hi> and <hi>Ben.</hi>
+                  </l>
+                  <l>Let's doe 'um like men, quoth <hi>Dan,</hi>
+                  </l>
+                  <l>Let's fill up their Chincks.</l>
+                  <l>Say's Myſticall <hi>Sphinx,</hi>
+                  </l>
+                  <l>Quoth <hi>Taffie,</hi> then I'm your man<hi>!</hi>
+                  </l>
+                  <l>And I am as cut, quoth <hi>Cad,</hi>
+                  </l>
+                  <l>And <hi>Shenkin, Me vat-a-whe.</hi>
+                  </l>
+                  <l>
+                     <hi>Ap Howel,</hi> It's true, and <hi>Morgan</hi> and <hi>Hugh</hi>
+                  </l>
+                  <l>
+                     <hi>Y'Cambrie, Dieu, Dalth-a-whe.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>T. M.</hi> 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
